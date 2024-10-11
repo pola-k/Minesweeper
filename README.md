@@ -33,20 +33,20 @@ Minesweeper is a classic puzzle game where players uncover tiles while avoiding 
 ## How to Play
 
 1. **Login:** 
-  - Start the game and log in using your userID. New users will create an account upon first login.
+    - Start the game and log in using your userID. New users will create an account upon first login.
 
 2. **Select Difficulty:**
-  - Choose between Level 1 or Level 2 based on your experience.
+    - Choose between Level 1 or Level 2 based on your experience.
 
 3. **Gameplay:**
-  - Click on tiles to reveal them. Avoid mines and try to clear the board.
-  - Collect the extra life tile if you find it!
+    - Click on tiles to reveal them. Avoid mines and try to clear the board.
+    - Collect the extra life tile if you find it!
 
 4. **Saving Your Game:**
-  - You can save your current progress and return to it later.
+    - You can save your current progress and return to it later.
 
 5. **Ending the Game:**
-  - The game ends when all safe tiles are revealed or when a mine is triggered.
+    - The game ends when all safe tiles are revealed or when a mine is triggered.
 
 ## Installation Instructions
 
@@ -56,14 +56,14 @@ git clone <repository_url>
 ```
 
 2. **Install Dependencies:**
-  - Ensure you have SFML installed. You can find installation instructions on the [SFML website](https://www.sfml-dev.org/download.php).
+    - Ensure you have SFML installed. You can find installation instructions on the [SFML website](https://www.sfml-dev.org/download.php).
 
 3. **Build the Project:**
-  - Open the project in your preferred C++ IDE (e.g., Visual Studio).
-  - Make sure to link against the SFML libraries in your project settings.
+    - Open the project in your preferred C++ IDE (e.g., Visual Studio).
+    - Make sure to link against the SFML libraries in your project settings.
 
 4. **Run the Game:**
-  - Compile and execute the project to start playing!
+    - Compile and execute the project to start playing!
 
 ## Acknowledgments
 
