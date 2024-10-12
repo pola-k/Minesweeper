@@ -52,7 +52,7 @@ Minesweeper is a classic puzzle game where players uncover tiles while avoiding 
 
 1. Clone the Repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/pola-k/Minesweeper.git
 ```
 
 2. **Install Dependencies:**
